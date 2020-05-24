@@ -1,0 +1,16 @@
+{
+  "name": "stockexchange",
+  "version": "1.0.0",
+  "description": "using Yahoo Finance API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/3rdAttempt.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ctschacher",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "unirest": "^0.6.0"
+  }
+}
