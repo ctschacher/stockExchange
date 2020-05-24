@@ -1,3 +1,8 @@
+resources/apiKey.json
+resources/shares.json
+resources/shares_short.json
+.vscode
+
 # Logs
 logs
 *.log
